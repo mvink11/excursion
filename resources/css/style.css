@@ -1,5 +1,5 @@
 h1{
-  font-weight: Normal;
+  font-weight: normal;
   font-size: 50px;
   color: white;
   text-align: center;
@@ -16,7 +16,7 @@ h3{
 body{
   background-color: black;
   text-align: center;
-  font-family: Verdana;
+  font-family: verdana;
 }
 nav{
   color: aquamarine;
