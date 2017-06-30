@@ -1,13 +1,13 @@
 h1{
-  Font-weight: Normal;
-  Font-size: 50px;
-  Color: White;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
   text-align: center;
 }
 h2{
-  Font-Weight: 300;
-  Font-Size: 42px;
-  Color: White;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
 }
 h3{
   font-family: verdana;
@@ -19,7 +19,7 @@ body{
   font-family: Verdana;
 }
 nav{
-  Color: Aquamarine;
+  color: aquamarine;
   font-size: 16px;
 }
 .foot{
